@@ -7,9 +7,7 @@
 
     DBusConnection *connection;
 
-    DBusError error;
-
- 
+    DBusError error; 
 
     char *name = "org.share.linux";
 
