@@ -9,7 +9,7 @@
 
     DBusError error;
 
-     
+ 
 
     char *name = "org.share.linux";
 
